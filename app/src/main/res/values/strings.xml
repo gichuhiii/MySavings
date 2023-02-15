@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">MySavings</string>
-    <string name="welcome">Welcome to MySavings,</string>
+    <string name="welcome">Welcome to MySavings, Save money today, live better tomorrow</string>
+    <string name="continuebtn">Continue</string>
 
 </resources>
