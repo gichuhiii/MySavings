@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">60842806604-lifcv6g17e5fv41p7um4r4vs1a0f99ke.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">60842806604</string>
+    <string name="google_api_key" translatable="false">AIzaSyD_FdVvtqIN2fvqxGoh5AfAGWaFJ0mfVAw</string>
+    <string name="google_app_id" translatable="false">1:60842806604:android:584533629f0fe4cb7fd3e9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD_FdVvtqIN2fvqxGoh5AfAGWaFJ0mfVAw</string>
+    <string name="google_storage_bucket" translatable="false">mycounsellor-29d23.appspot.com</string>
+    <string name="project_id" translatable="false">mycounsellor-29d23</string>
+</resources>
