@@ -13,7 +13,7 @@ class WelcomePage : AppCompatActivity() {
         title = "Welcome"
         val button = findViewById<Button>(R.id.welcome)
         button.setOnClickListener {
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, Register::class.java)
             startActivity(intent)
         }
 

@@ -18,7 +18,7 @@ class Home : AppCompatActivity() {
 
         val profilebtn = findViewById<Button>(R.id.profilebtn)
         profilebtn.setOnClickListener{
-            val Intent = Intent(this,Home::class.java)
+            val Intent = Intent(this,Profile::class.java)
             startActivity(Intent)
         }
 

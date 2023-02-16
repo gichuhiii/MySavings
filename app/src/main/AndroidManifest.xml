@@ -38,6 +38,14 @@
             android:name=".Login"
             android:exported="true" />
 
+        <activity
+            android:name=".Home"
+            android:exported="true" />
+
+        <activity
+            android:name=".Profile"
+            android:exported="true" />
+
     </application>
 
 </manifest>
