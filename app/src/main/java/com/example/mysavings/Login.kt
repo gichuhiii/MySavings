@@ -21,7 +21,7 @@ class Login : AppCompatActivity() {
             startActivity(Intent)
         }
         val cancelbutton = findViewById<Button>(R.id.cancelbutton)
-        loginbutton.setOnClickListener{
+        cancelbutton.setOnClickListener{
             val Intent = Intent(this,WelcomePage::class.java)
             startActivity(Intent)
         }
