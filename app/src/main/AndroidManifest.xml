@@ -50,6 +50,10 @@
             android:name=".SavingsHome"
             android:exported="true" />
 
+        <activity
+            android:name=".SavingsDetails"
+            android:exported="true" />
+
     </application>
 
 </manifest>
